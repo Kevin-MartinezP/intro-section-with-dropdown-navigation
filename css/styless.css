@@ -202,7 +202,7 @@ main .main__information-image-mobile {
 .section-container .main__information-image-desktop {
    display: none;
 }
-main .main-information-container h2 {
+main .main-information-container h1 {
     text-align: center;
     font-size: 3.5rem;
     margin-bottom: 30px;
@@ -389,7 +389,7 @@ main .main-logos-container img {
         grid-column: 1;
         grid-auto-rows: max-content;
     }
-    main .main-information-container h2 {
+    main .main-information-container h1 {
         margin-top: 90px;
         padding: 20px 25px 20px 0;
         font-size: 7.5rem;
